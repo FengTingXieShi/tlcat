@@ -61,7 +61,7 @@ TLCat/
 
 ## 许可证
 
-本项目采用 MIT 许可证 - 详见 LICENSE 文件
+本项目采用 MIT 许可证 - 详见 [LICENSE](https://github.com/FengTingXieShi/tlcat/blob/main/LICENSE) 文件
 
 ##  贡献
 
